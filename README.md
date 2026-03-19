@@ -16,8 +16,8 @@ Welcome to my internship hub! This repository serves as a central collection of 
 | **Level 1** | Task 1 | 🏖️ Tourism Website | ✅ Complete | [Repo](https://github.com/AhmedMoEssam1512/codeveda-level-1-task-1-tourism-) |
 | **Level 1** | Task 3 | 📜 JS Interactivity | ✅ Complete | [Repo](https://github.com/AhmedMoEssam1512/codeveda-level-1-task-3-feedback-form) |
 | **Level 2** | Task 2 | ✅ To-Do List App | ✅ Complete | [Repo](https://github.com/AhmedMoEssam1512/Codveda-Level2-Task2-Todo-App) |
-| **Level 2** | Task 3 | ⚛️ React Binary Tool | 🚧 In Progress | [Repo](https://github.com/AhmedMoEssam1512/codeveda-level-2-task-3-react-binary-tool) |
-| **Level 3** | Tasks 1+2 | 🗂️ TaskFlow (CRUD + Auth) | ⏳ Pending | [Repo](#)|
+| **Level 2** | Task 3 | ⚛️ React Binary Tool | ✅ Complete | [Repo](https://github.com/AhmedMoEssam1512/codeveda-level-2-task-3-react-binary-tool) |
+| **Level 3** | Tasks 1+2 | 🗂️ TaskFlow (CRUD + Auth) | 🚧 In Progress | [Repo](#)|
 
 ---
 
