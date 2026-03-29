@@ -2,7 +2,7 @@
 
 **Intern:** Ahmed Mohamed Essam Ahmed  
 **Duration:** March 2026 - April 2026  
-**Status:** In Progress ✅  
+**Status:** Finished ✅  
 **Offer ID:** CV/AI/64764
 
 Welcome to my internship hub! This repository serves as a central collection of all projects, tasks, and achievements completed during my Web Development Internship at **Codveda Technologies**.
